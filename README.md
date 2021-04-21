@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shafikul311
-- 👀 I’m interested in ..javascript ---React.js
-- 🌱 I’m currently learning ...javascript Development (Love with Development)
+- 👋 Hi, I’m @ SHAFIKUL
+- 👀 I’m interested in ..javascript ---React.js , node.js ,express.js , monog-DB
+- 🌱 I’m currently jounior WEB DEVELOPER (Love with Development)
 - 💞️ I’m looking to collaborate on ...web Development company
 - 📫 How to reach me ...shafikulislam067@gmail.com
 
