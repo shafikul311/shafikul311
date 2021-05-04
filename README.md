@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **javascript ,React.js , node.js express.js ,mongodb Next.js ,React.Native**
 
-- 👯 I’m looking to collaborate on **fIX**
+- 👯 I’m looking to collaborate on **Web Developer**
 
 - 🤝 I’m looking for help with **Front end Development**
 
