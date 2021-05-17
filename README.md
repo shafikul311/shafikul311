@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm shafikul</h1>
-<h3 align="center">A passionate frontend developer from BAGLADESH</h3>
+<h3 align="center">A passionate Web Develoepr</h3>
 
 - 🌱 I’m currently learning **javascript ,React.js , node.js express.js ,mongodb Next.js ,React.Native**
-
-- 👯 I’m looking to collaborate on **Web Developer**
-
-- 🤝 I’m looking for help with **Front end Development**
 
 - 👨‍💻 All of my projects are available at [https://shafikul-portfolio.web.app/](https://shafikul-portfolio.web.app/)
 
