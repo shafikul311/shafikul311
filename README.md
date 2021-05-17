@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shafikul</h1>
-<h3 align="center">A passionate Web Develoepr</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 - 🌱 I’m currently learning **javascript ,React.js , node.js express.js ,mongodb Next.js ,React.Native**
 
