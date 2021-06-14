@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shafikul</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://shafikul-portfolio.web.app/](https://shafikul-portfolio.web.app/)
+- 👨‍💻 Some of my projects are available at [https://shafikul-portfolio.web.app/](https://shafikul-portfolio.web.app/)
 
 - 💬 Ask me about **React.js**
 
