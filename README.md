@@ -3,7 +3,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://shafikul-portfolio.web.app/](https://shafikul-portfolio.web.app/)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **shafikulislam067@gmail.com**
 
