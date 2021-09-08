@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **shafikulislam067@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uixlioz7kmAj_k4hSLqlQLJCxysjRoOM/view?usp=sharing](https://drive.google.com/file/d/1uixlioz7kmAj_k4hSLqlQLJCxysjRoOM/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
