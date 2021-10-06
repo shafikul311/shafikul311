@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, I'm Shafikul</h1>
-<h3 align="center">I am a passionate progessional Web Developer.</h3>
+<h3 align="center">I am a passionate professional Web Developer.</h3>
 
 - 🔭 I’m currently working on **Own Project**
 
