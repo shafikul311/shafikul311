@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Own Project**
 
-- 🌱 I’m currently learning **Javascript, React, Node.js and more**
+- 🌱 I’m currently learning **Javascript, Typescript, React, Node.js and more**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Developer Team**
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **shafikulislam067@gmail.com**
 
