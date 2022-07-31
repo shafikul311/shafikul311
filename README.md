@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Shafikul</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🔭 I’m currently working on **Own Project**
+- 🔭 I’m currently working on **Own Projects**
 
 - 🌱 I’m currently learning **Javascript, Typescript, React, Node.js and more**
 
