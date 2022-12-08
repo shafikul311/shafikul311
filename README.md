@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web Development Project**
 
-- 💬 Ask me about **Javascript,Typescript, React**
+- 💬 Ask me about **Javascript,Typescript**
 
 - 📫 How to reach me **shafikulislam067@gmail.com**
 
