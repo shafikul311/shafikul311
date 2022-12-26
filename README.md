@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Own Projects**
 
-- 🌱 I’m currently learning **Javascript, Typescript, React, Node.js and more**
+- 🌱 I’m currently learning **Javascript, Typescript, React, Node.js, Express.js, MongoDB**
 
 - 👯 I’m looking to collaborate on **Web Developer Team**
 
