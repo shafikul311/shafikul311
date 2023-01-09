@@ -9,11 +9,10 @@
 
 - 🤝 I’m looking for help with **Web Development Project**
 
-- 💬 Ask me about **Javascript,Typescript**
+- 💬 Ask me about **Javascript,Typescript,React JS**
 
 - 📫 How to reach me **shafikulislam067@gmail.com**
 
-- ⚡ Fun fact **Coding---Life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
