@@ -21,7 +21,7 @@
  <a href="https://twitter.com/Shafiku78223934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://stackoverflow.com/users/16122387/shafikul-islam" height="30" width="40" /></a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafikul311)]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=shafikul311)
 
 
 
