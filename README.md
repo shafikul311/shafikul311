@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Developer Team**
 
-- 🤝 I’m looking for help with **Web Development Project**
-
-- 💬 Ask me about **Javascript,Typescript,React JS,Next JS**
+- 💬 Ask me about **Javascript, ReactJS**
 
 - 📫 How to reach me **shafikulislam067@gmail.com**
 
