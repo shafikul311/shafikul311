@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Typescript, React, Node.js, Express.js, MongoDB**
 
-- 👯 I’m looking to collaborate on **Web Developer Team**
+- 👯 I’m looking to collaborate on **Web Programmer**
 
 - 💬 Ask me about **Javascript, ReactJS**
 
